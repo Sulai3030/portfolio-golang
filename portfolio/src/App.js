@@ -6,6 +6,7 @@ import About from './components/About';
 import Contact from './components/Contact';
 import Error from './components/Error';
 import Navigation from './components/Navigation';
+import Samples from './components/Navigation';
  
 class App extends Component {
   render(){
